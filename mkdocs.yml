@@ -1,0 +1,15 @@
+site_name: FoxAngol
+site_description: Angoltanulás, kommunikáció és nyelvi önbizalom
+site_url: https://foxangol.netlify.app/
+
+theme:
+  name: material
+  language: hu
+
+nav:
+  - Főoldal: index.md
+  - Rólam: about.md
+  - Óratípusok: oratipusok.md
+  - Rólam írták: rolam-irtak.md
+  - Blog:
+      - Áttekintés: blog/index.md
