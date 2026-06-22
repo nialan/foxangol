@@ -10,7 +10,7 @@ description: Egy cikk arról, hogy miben segít, ha idegen nyelven olvasol.
   <img
     src="../assets/miben-segit-ha-idegen-nyelven-olvasol.png"
     alt="Miben segít, ha idegen nyelven olvasol?"
-    width="700">
+    width="400">
 </p>
 
 Kezdő, de akár haladó nyelvtanulóként is biztosan sokszor megfogalmazódott benned a gondolat, hogy vajon mikor jön el az az időszak, amikor végre el lehet szakadni a tankönyvi mintaszövegektől, és történeteket, novellákat, esetleg cikkeket is tudsz olvasni. Akár hiszed, akár nem, már egészen korán, amint kicsit belejössz a nyelvtanulásba – olvashatsz. A rövidített olvasmányok egy egészen kiváló lehetőséget kínálnak erre. Talán mondanom sem kell, hogy a legkülönfélébb témákban találhatsz olvasnivalókat közöttük, ráadásul nehézségi szintek szerint elosztva, így akár egészen kezdő szinttől is az egyik kedvenc (de az is lehet, hogy csupán leggyakoribb) időtöltésednek hódolva fejlesztheted a nyelvtudásodat.
