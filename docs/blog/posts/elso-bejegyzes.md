@@ -18,4 +18,4 @@ A felnőtt nyelvtanuló többnyire talán nem mutat kezdetben olyan robbanássze
 
 Életünk **bármely pontján** tehát, ha úgy döntünk, belefogunk egy új idegen nyelv megtanulásába, lépjünk bátran. Biztosak lehetünk abban, hogy a **javunkra válik**. Nem kell hozzá más, csak elhatározás, motiváció, egy csipetnyi jókedv, és egy megfelelő tanár, aki kalauzol bennünket az úton.
 
-![Barmikor Lehet Nyelvtanulo](./assets/images/idosen-is-lehet-nyelvet-tanulni.png)
+![Barmikor Lehet Nyelvtanulo](./assets/images/idosen-is-lehet-nyelvet-tanulni.jpg)
