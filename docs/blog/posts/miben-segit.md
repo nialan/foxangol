@@ -8,7 +8,7 @@ description: Egy cikk arról, hogy miben segít, ha idegen nyelven olvasol.
 
 <p align="center">
   <img
-    src="../miben-segit-ha-idegen-nyelven-olvasol.png"
+    src="../assets/miben-segit-ha-idegen-nyelven-olvasol.png"
     alt="Miben segít, ha idegen nyelven olvasol?"
     width="700">
 </p>
@@ -23,7 +23,7 @@ A nyelvórákon kívül az egyik leghasznosabb dolog, amivel gyakorolhatsz, de a
 
 <p align="center">
   <img
-    src="../foxangol-optimalizalt.png"
+    src="../assets/foxangol-optimalizalt.png"
     alt="Foxangol logo"
     width="400">
 </p>
