@@ -14,3 +14,5 @@ Szinte csak annyi a dolgunk, hogy egy kis időt szánjunk rá, és olvassunk. É
 
 A nyelvórákon kívül az egyik leghasznosabb dolog, amivel gyakorolhatsz, de az órák alkalmával is gyakran használjuk vitaindítóként, vagy szolgálhat egy-egy társalgási téma alapjául egy rövid, frappánsan megírt cikk. Ha kérdésed van, keress minket bátran!
 
+![Miben Segit](./assets/miben-segit-ha-idegen-nyelven-olvasol.png)
+
