@@ -1,5 +1,7 @@
 # FoxAngol Style Guide
 
+"Consistency makes content easier to read, maintain, and improve."
+
 ## Purpose
 
 This document defines the editorial and technical conventions used in the **FoxAngol** project.
