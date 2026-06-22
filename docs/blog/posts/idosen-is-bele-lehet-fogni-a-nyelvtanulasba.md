@@ -8,7 +8,7 @@ description: Egy cikk arról, hogy akár felnőttként is elkezdhetsz nyelvet ta
 
 <p align="center">
   <img
-    src="../assets/idosen-is-bele-lehet-fogni-a-nyelvtanulasba.png"
+    src="../images/idosen-is-bele-lehet-fogni-a-nyelvtanulasba.png"
     alt="Idős felnőtt nyelvtanuló"
     width="500">
 </p>
@@ -25,7 +25,7 @@ A felnőtt nyelvtanuló többnyire talán nem mutat kezdetben olyan robbanássze
 
 <p align="center">
   <img
-    src="../assets/idosen-is-lehet-nyelvet-tanulni.jpg"
+    src="../images/idosen-is-lehet-nyelvet-tanulni.jpg"
     alt="Idős felnőtt nyelvtanuló"
     width="300">
 </p>

@@ -6,6 +6,13 @@ description: Egy cikk arról, hogyan használd az 's-t.
 
 # Lásd rendszerben: Az 's használata 
 
+<p align="center">
+  <img
+    src="../images/lasd-rendszerben-s.jpg"
+    alt="Az aposztrof hasznalata"
+    width="400">
+</p>
+
 A mai bejegyzés első sorban a kezdő és újrakezdő nyelvtanulóknak készült, de biztos vagyok benne, hogy a haladóbb tudással rendelkezők is találnak majd benne valami érdekeset.
 
 Különösen a kezdő és újrakezdő tanulóknak lehet feltűnően ismerős az a bizonyos **'s**. Hogy miért? Leginkább talán azért, mert gyakran megakasztja az értelmezést olvasás közben, elbizonytalanít, néha kicsit talán félrevezetőnek is tűnhet, amikor az aposztróf adta rövidítés elrejti a szó legjavát. A jó hír az, hogy a „varázsa” csupán addig tart, amíg rendszerben nem látjuk, tanuljuk meg az előfordulásait. Ebben szeretnék most segítséget nyújtani.
@@ -83,8 +90,6 @@ h) What’s your phone number? _____
 i) Where’s my laptop? _______
 j) He’s got a lot of Lego bricks. ______
   
-
-![Az aposztrof hasznalata](./assets/lasd-rendszerben-s.jpg)
-
+<hr>
 
 Megoldás: a) is, b) is, c) HG, d) B, e) B, f) HG, g) is, h) is, i) is, j) HG
