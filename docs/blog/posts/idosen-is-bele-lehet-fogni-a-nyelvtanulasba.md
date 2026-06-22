@@ -1,6 +1,6 @@
 ---
 title: Akár felnőttként vagy idősen is bele lehet fogni a nyelvtanulásba!
-date: 2026-06-22
+date: 2026-06-19
 description: Egy cikk arról, hogy akár felnőttként is elkezdhetsz nyelvet tanulni!
 ---
 

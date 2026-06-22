@@ -1,6 +1,6 @@
 ---
 title: Miben segít, ha idegen nyelven olvasol?
-date: 2026-06-22
+date: 2026-06-20
 description: Egy cikk arról, hogy miben segít, ha idegen nyelven olvasol.
 ---
 
@@ -12,7 +12,7 @@ Egészen sokféle szöveg elérhető manapság, minden nyelvtanuló találhat a 
 
 Szinte csak annyi a dolgunk, hogy egy kis időt szánjunk rá, és olvassunk. És hogy miért érdemes? Miközben olvasol, nem csak gyakorlod a szövegértést, hanem látva a nyelvtani szerkezeteket, a szavak, kifejezések megfelelő használatát, egyfolytában gyakorolsz. Nem szükséges minden egyes ismeretlen kifejezést azonnal kiszótáraznod, csak lazulj bele, olvass, és add meg magadnak a lehetőséget, hogy a szövegkörnyezetből magad jöjj rá az adott kifejezés jelentésére. Tégy egy próbát, és meglepő dolgokat fogsz tapasztalni! Az olvasás során fejlődik a szókincsed és a helyesírásod, gyakorlod a helyes nyelvhasználatot, a fogalmazást és a kreatív nyelvhasználatot. Egy idő után észre veszed majd, hogy egyre könnyebben találod meg a megfelelő szavakat, szófordulatokat a beszélgetések alkalmával is.
 
-A nyelvórákon kívül az egyik leghasznosabb dolog, amivel gyakorolhatsz, de az órák alkalmával is gyakran használjuk vitaindítóként, vagy szolgálhat egy-egy társalgási téma alapjául egy rövid, frappánsan megírt cikk. Ha kérdésed van, keress minket bátran!
+A nyelvórákon kívül az egyik leghasznosabb dolog, amivel gyakorolhatsz, de az órák alkalmával is gyakran használjuk vitaindítóként, vagy szolgálhat egy-egy társalgási téma alapjául egy rövid, frappánsan megírt cikk. Ha kérdésed van, keress bátran!
 
 ![Miben Segit](./assets/miben-segit-ha-idegen-nyelven-olvasol.png)
 
