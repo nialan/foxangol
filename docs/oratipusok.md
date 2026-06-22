@@ -1,3 +1,9 @@
+---
+title: Óratípusok
+date: 2026-06-22
+description: Összegzés az óratípusokról, az egyéni és online órákról.
+---
+
 # Óratípusok
 
 Egyéni órák
