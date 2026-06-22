@@ -9,6 +9,7 @@ theme:
 nav:
   - Főoldal: index.md
   - Rólam: about.md
+  - Kapcsolat: kapcsolat.md
   - Óratípusok: oratipusok.md
   - Rólam írták: rolam-irtak.md
   - Blog:

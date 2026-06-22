@@ -79,16 +79,16 @@ A Present Perfect igeidőnél a **has been** ragozott létige esetében is előf
 - This is Lucas’s cat. _B_
 - Luna’s got four books. _HG_
 
-a) Where’s George from? _____
-b) Here’s your pen. _____
-c) Who’s got my mobile phone? ____
-d) I love Gaiman’s stories very much. ____
-e) Diana’s father is a plumber. ______
-f) She’s got wonderful children. _____
-g) He’s the boss here. ______
-h) What’s your phone number? _____
-i) Where’s my laptop? _______
-j) He’s got a lot of Lego bricks. ______
+1. Where’s George from? _____
+2. Here’s your pen. _____
+3. Who’s got my mobile phone? ____
+4. I love Gaiman’s stories very much. ____
+5. Diana’s father is a plumber. ______
+6. She’s got wonderful children. _____
+7. He’s the boss here. ______
+8. What’s your phone number? _____
+9. Where’s my laptop? _______
+10. He’s got a lot of Lego bricks. ______
   
 <hr>
 
