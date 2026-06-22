@@ -7,3 +7,5 @@ description: Mi a FoxAngol?
 # Üdvözöllek. Örülök, hogy idetaláltál. 
 
 Mi a FoxAngol? Egy blog. Egy angoltanár blogja a nyelvtanulásról, és sok egyéb, a témához kötődő dologról. A cikkeket, bejegyzéseket olvasva egy kicsit közelebbi képet kaphatsz arról, hogyan tanítok, és hogyan gondolkodom a nyelvtanításról. Persze hasznos tippeket, ötleteket, megoldásokat is találsz, és igyekszem megosztani első kézből származó tanári és nyelvtanulói tapasztalatokat is. Biztos vagyok benne, hogy valamennyit, de legalábbis sokat fogsz tudni hasznosítani a saját gyakorlásod során.
+
+![FoxAngol Image](./assets/images/fox-angol-800x600.jpg)
