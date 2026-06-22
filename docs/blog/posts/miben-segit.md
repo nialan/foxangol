@@ -23,7 +23,7 @@ A nyelvórákon kívül az egyik leghasznosabb dolog, amivel gyakorolhatsz, de a
 
 <p align="center">
   <img
-    src="../assets/foxangol-optimalizalt.png"
+    src="../assets/foxangol-optimalizalt.jpg"
     alt="Foxangol logo"
     width="400">
 </p>
