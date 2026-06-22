@@ -6,6 +6,13 @@ description: Egy cikk arról, hogy miben segít, ha idegen nyelven olvasol.
 
 # Miben segít, ha idegen nyelven olvasol?
 
+<p align="center">
+  <img
+    src="./assets/miben-segit-ha-idegen-nyelven-olvasol.png"
+    alt="Idős felnőtt nyelvtanuló"
+    width="700">
+</p>
+
 Kezdő, de akár haladó nyelvtanulóként is biztosan sokszor megfogalmazódott benned a gondolat, hogy vajon mikor jön el az az időszak, amikor végre el lehet szakadni a tankönyvi mintaszövegektől, és történeteket, novellákat, esetleg cikkeket is tudsz olvasni. Akár hiszed, akár nem, már egészen korán, amint kicsit belejössz a nyelvtanulásba – olvashatsz. A rövidített olvasmányok egy egészen kiváló lehetőséget kínálnak erre. Talán mondanom sem kell, hogy a legkülönfélébb témákban találhatsz olvasnivalókat közöttük, ráadásul nehézségi szintek szerint elosztva, így akár egészen kezdő szinttől is az egyik kedvenc (de az is lehet, hogy csupán leggyakoribb) időtöltésednek hódolva fejlesztheted a nyelvtudásodat.
 
 Egészen sokféle szöveg elérhető manapság, minden nyelvtanuló találhat a számára megfelelőt – és mi is segíthetünk valami testhez állót, témába vágót találni. Papír alapú vagy online, az adott nyelvtudás szintjére írt vagy egy szépirodalmi mű egyszerűsített változata, akad közöttük képregényesített forma, vagy külön angol nyelvtanulóknak készített újságcikkek napra kész témákból. Egyeseket külön szószedettel, esetleg szövegértési feladatokkal is elláttak, így az olvasás egyszerre válik egy kihívást jelentő, szórakoztatva tanító és kifizetődő időtöltéssé.
@@ -14,5 +21,10 @@ Szinte csak annyi a dolgunk, hogy egy kis időt szánjunk rá, és olvassunk. É
 
 A nyelvórákon kívül az egyik leghasznosabb dolog, amivel gyakorolhatsz, de az órák alkalmával is gyakran használjuk vitaindítóként, vagy szolgálhat egy-egy társalgási téma alapjául egy rövid, frappánsan megírt cikk. Ha kérdésed van, keress bátran!
 
-![Miben Segit](./assets/miben-segit-ha-idegen-nyelven-olvasol.png)
+<p align="center">
+  <img
+    src="./assets/foxangol-optimalizalt.png"
+    alt="Foxangol logo"
+    width="400">
+</p>
 
