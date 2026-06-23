@@ -36,16 +36,19 @@ Még néhány szót ejtenék a két vizsgatípus közötti különbségekről. �
 
 Érdemes arról is tudnod, hogy papíron, illetve számítógépen is lehet IELTS nyelvvizsgát tenni. Alapvetően nincs különbség a két vizsgamód szerkezete és feladatai között, csupán annyi, hogy a számítógépes verzió gyorsabb értékelést, ezáltal több vizsgaidőpontot is lehetővé tesz. A Speaking vizsgarész mindkét vizsgamód esetén ugyanúgy élőben (offline) zajlik, tantermi keretek között. 
 
+## Miért válasszam?
+
 Tulajdonképpen jó befektetés lehet számodra IELTS nyelvvizsgát tenni, különösen, ha külföldön tervezel tanulni vagy dolgozni. Az adott oktatási intézmény megadhatja felvételi követelménynek, hogy IELTS nyelvvizsgát tegyél, ugyanakkor munkavállalóként támogatja az álláskeresési törekvéseidet, ha van egy IELTS bizonyítvány a zsebedben. Magyarországon is hasznos lehet IELTS nyelvvizsgát tenni, különösen munkavállalás szempontjából, hiszen olyan egy nívós, jó hírű rendszertől kapsz elismerést a nyelvtudásodról, melyet a világ vezető szakértői fejlesztenek folyamatosan. Ez utóbbi esetben viszont honosítás szükséges, de ezt követően lesz egy magyar, államilag elismert és egy nemzetközi nyelvvizsgád is. Arra viszont érdemes odafigyelni, hogy míg az államilag elismert nyelvvizsgának nincs lejárati ideje, a külföldi szervezetek legfeljebb két évig fogadják el érvényesnek az IELTS-nél tett nyelvvizsgádat. Természetesen hacsak nem tudod igazolni valamilyen formában, hogy a vizsga óta volt alkalmad rendszeresen gyakorolni, szinten tartani, illetve tovább fejleszteni a nyelvtudásodat. A főiskolai, egyetemi felvételi eljárásban egy honosított IELTS nyelvvizsga ugyanúgy pontot ér. A Közös Európai Keretrendszer és az IELTS pontszámok átszámításának táblázatát megtalálod a British Council idevágó oldalán (https://www.britishcouncil.hu/angol-nyelvvizsga/ielts/eredmenyek).
 
 Elöljáróban ennyit az IELTS nyelvvizsgáról. A későbbiekben olvashatsz még cikkeket IELTS témában, ezekben a különböző készségterületek alapján járjom majd körbe mind a General Training mind az Academic feladatsorokat a mért nyelvi készségek alapján. Ha bármilyen kérdésed adódna a nyelvvizsgát, illetve a felkészülést illetően, keress bátran. :)
 
 Források:
-https://www.ieltsnyelvvizsga.com/
-https://www.britishcouncil.hu/
-https://www.britishcouncil.hu/angol-nyelvvizsga/ielts/eredmenyek
-https://ieltsliz.com/
-https://www.ielts.org/
-https://www.ielts.org/about-the-test/computer-delivered-ielts
-https://takeielts.britishcouncil.org/
-https://www.roadtoielts.com/
+
+- https://www.ieltsnyelvvizsga.com/
+- https://www.britishcouncil.hu/
+- https://www.britishcouncil.hu/angol-nyelvvizsga/ielts/eredmenyek
+- https://ieltsliz.com/
+- https://www.ielts.org/
+- https://www.ielts.org/about-the-test/computer-delivered-ielts
+- https://takeielts.britishcouncil.org/
+- https://www.roadtoielts.com/
