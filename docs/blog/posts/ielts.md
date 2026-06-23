@@ -44,11 +44,11 @@ Elöljáróban ennyit az IELTS nyelvvizsgáról. A későbbiekben olvashatsz mé
 
 Források:
 
-- https://www.ieltsnyelvvizsga.com/
-- https://www.britishcouncil.hu/
-- https://www.britishcouncil.hu/angol-nyelvvizsga/ielts/eredmenyek
-- https://ieltsliz.com/
-- https://www.ielts.org/
-- https://www.ielts.org/about-the-test/computer-delivered-ielts
-- https://takeielts.britishcouncil.org/
-- https://www.roadtoielts.com/
+- [IELTS Nyelvvizsga](https://www.ieltsnyelvvizsga.com/)
+- [British Council Magyarország](https://www.britishcouncil.hu/)
+- [British Council - Nyelvvizsga eredmények](https://www.britishcouncil.hu/angol-nyelvvizsga/ielts/eredmenyek)
+- [IELTS Liz](https://ieltsliz.com/)
+- [IELTS](https://www.ielts.org/)
+- [IELTS about computer delivered tests](https://www.ielts.org/about-the-test/computer-delivered-ielts)
+- [Take IELTS - British Council](https://takeielts.britishcouncil.org/)
+- [Road to IELTS](https://www.roadtoielts.com/)
