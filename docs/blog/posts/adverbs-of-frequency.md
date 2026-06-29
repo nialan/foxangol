@@ -47,12 +47,12 @@ Például:
 | ---------------------- | ----------------------------------------------------- | --------------- | ----------- |
 | 100% | always | mindig | I always have breakfast in the kitchen. |
 | 90% | usually | általában | We usually go on holiday in summer. |
-| 80% | normally / generally |  rendszerint | I generally buy vegetables at the market. |
+| 80% | normally / generally | rendszerint | I generally buy vegetables at the market. |
 | 70% | often / frequently | gyakran | They often go out at weekends. |
 | 50% | sometimes | néha | You sometimes cook dinner. |
 | 30% | occasionally | alkalmanként | She occasionally does some sport. |
 | 10% | seldom | ritkán | They seldom go skiing to the Alps. |
-| 5% | hardly ever / rarely	nagyon | ritkán, szinte soha | We hardly ever see any wolfs in the forest. |
+| 5% | hardly ever / rarely	nagyon | ritkán, szinte soha | We hardly ever see any wolves in the forest. |
 | 0% | never | soha | It never snows in Southern California. |
 
 Érdemes odafigyelned arra, hogy a hardly ever-t és a never-t, **mivel önmagukban is tagadást hordoznak, állító szerkezetekben** használjuk csak. (Elkerülve ezzel a kettős tagadást.)
