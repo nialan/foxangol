@@ -10,7 +10,7 @@ description: Egy cikk a gyakoriságot kifejező időhatározókról (Adverbs of 
 
 <p align="center">
   <img
-    src="../images/adverbs-of.frequency.png"
+    src="../images/adverbs-of-frequency.png"
     alt="A gyakoriságot kifejező időhatározók hasznalata"
     width="400">
 </p>
