@@ -87,8 +87,8 @@ Ennél a szerkezetnél figyelj arra, hogy az első kettő kifejezés (once, twic
 
 Például:
 
-- We meet in person only twice a month. (Havonta csak kétszer találkozunk.)
-- They have competitions four times a year. (Évente négyszer van versenyük.)
+- We meet in person only **twice a month**. (Havonta csak kétszer találkozunk.)
+- They have competitions **four times a year**. (Évente négyszer van versenyük.)
 
 ## Haladóbbaknak 
 
@@ -98,12 +98,12 @@ A **Perfect igeidők**, illetve **módbeli segédigék** esetén szintén el leh
 
 Például:
 
-- He can never read that passage. (Sosem tudja elolvasni azt a részt.)
-- You have always been there to help us. (Mindig is ott voltál, hogy segíts nekünk.)
-- Have you ever ridden an elephant? (Ültél már elefántháton?)
-- Had she always been that good at bowling? (Mindig is olyan jól bowlingozott?)
-- You should always be careful what you say in public. (Mindig figyelned kellene, hogy mit mondasz nyivlánosan.)
-- I am usually allowed to use the company car. (Általában szabad használnom a céges kocsit.)
+- He can **never** read that passage. (Sosem tudja elolvasni azt a részt.)
+- You have **always** been there to help us. (Mindig is ott voltál, hogy segíts nekünk.)
+- Have you **ever** ridden an elephant? (Ültél már elefántháton?)
+- Had she **always** been that good at bowling? (Mindig is olyan jól bowlingozott?)
+- You should **always** be careful what you say in public. (Mindig figyelned kellene, hogy mit mondasz nyivlánosan.)
+- I am **usually** allowed to use the company car. (Általában szabad használnom a céges kocsit.)
 
 Ha a módbeli segédigék **egyedül állnak**, például rövid válaszok vagy megjegyzések esetében, akkor egy kicsit módosul a határozószók helye: **a segédige elé** kerülnek.
 
@@ -120,15 +120,15 @@ Például:
 - Have you ever been there before? (Voltál már ott korábban?)
 - If you ever come to Kiev, you should come and see us. (Ha valaha Kijevben jársz, el kell jönnöd meglátogatni bennünket.)
 
-### Források
+## Források
 
-- A. J. Thomson, A. V. Martinet, A Practical English Grammar
-- W. Stannard Allen, Living English Structure
+- A. J. Thomson, A. V. Martinet, *A Practical English Grammar*
+- W. Stannard Allen, *Living English Structure*
 
 
-### Néhány feladat
+## Néhány feladat
 
-- I go home before 7 o«clock in the evening. (often)
+- I go home before 7 o'clock in the evening. (often)
 - She has seen a ghost. (never)
 - He is a good student. (always)
 - We do the housework at weekends. (usually)
