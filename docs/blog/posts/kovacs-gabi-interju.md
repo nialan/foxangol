@@ -1,6 +1,7 @@
 ---
 title: Interjú Kovács Gabriellával
-date: 2026-06-29
+date: 2026-06-28
+tags: interjú
 description: Egy interjú Kovács Gabriella nyelvi coach-csal.
 ---
 
@@ -87,6 +88,6 @@ Célom egyrészt támogatni a nyelvtanárokat, nyelvoktatással foglalkozó szak
 Remélem idővel nem az lesz a kérdés, mit csinál egy nyelvi coach, hanem az, hogy hogyan tudják egymást munkáját kiegészíteni egy nyelvtanárral, vagy hogyan tudja egyre kiválóbb nyelvi coach-csá képeznie magát egy nyelvtanár. 
 
 [Honlapomon](https://www.activelanguagecoaching.com) találhatók írásaimhoz linkek, melyek a LinkedInen és a hazai sajtóban megjelentek.
-Aktív vagyok a [Facebookon](https://www.facebook.com/ActiveLanguageCoaching/), [LinkedInen](https://www.linkedin.com/in/gabriella-kovacs-author-language-coach/), nézd meg coaching programjaimat, tanári képzéseimet – bízom benne, tudunk együtt dolgozni. 
+Aktív vagyok a [Facebookon](https://www.facebook.com/ActiveLanguageCoaching/), [LinkedInen](https://www.linkedin.com/in/gabriella-kovacs-author-language-coach/), nézd meg coaching programjaimat, tanári képzéseimet – bízom benne, hogy tudunk együtt dolgozni. 
 
 

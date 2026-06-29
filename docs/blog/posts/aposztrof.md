@@ -1,6 +1,7 @@
 ---
 title: Az 's használata
 date: 2026-06-22
+tags: használd jól, nyelvtan
 description: Egy cikk arról, hogyan használd az 's-t.
 ---
 

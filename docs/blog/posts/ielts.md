@@ -1,6 +1,7 @@
 ---
 title: Miért válaszd az IELTS nyelvvizsgát?
 date: 2026-06-23
+tags: nyelvvizsga ajánló
 description: Egy cikk arról, hogy miért válaszd az IELTS nyelvvizsgát.
 ---
 

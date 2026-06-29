@@ -1,6 +1,7 @@
 ---
 title: Miben segít, ha idegen nyelven olvasol?
 date: 2026-06-20
+tags: cikk
 description: Egy cikk arról, hogy miben segít, ha idegen nyelven olvasol.
 ---
 
